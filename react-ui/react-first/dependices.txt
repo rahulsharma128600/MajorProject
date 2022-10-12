@@ -1,0 +1,53 @@
+
+first command :--
+
+	npm install 
+
+
+if some dependecies not found or gives error while running projects ...
+---------------------------------------------------------------
+
+dependencies to run projects:--
+
+
+/* ----for routing---*/
+
+npm install react-router-dom
+
+
+/* ----for api integration---*/
+
+npm install axios
+
+
+/* ----for bootstrap css---*/
+
+npm install react-bootstrap bootstrap
+
+
+/*---- for social icons in footer---- */
+
+npm install react-social-icons
+
+
+/*----- for redux storage -----
+
+npm install react-redux --save
+
+/*----- for react icons
+
+npm install react-icons --save
+
+/*--- for react calendar 
+
+npm install react-calendar
+
+
+/*-----
+
+npm install react-hook-form
+
+
+/*--- for email validator
+
+npm install validator
